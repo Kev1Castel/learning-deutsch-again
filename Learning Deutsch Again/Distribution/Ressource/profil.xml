@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <profile>
+    <login>Admin</login>
+    <password>@Admin321</password>
+  </profile>
+  <profile>
+    <login>Guest</login>
+    <password>@Guest321</password>
+  </profile>
+</root>

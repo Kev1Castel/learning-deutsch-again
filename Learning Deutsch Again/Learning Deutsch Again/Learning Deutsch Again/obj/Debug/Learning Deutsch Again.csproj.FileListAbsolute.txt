@@ -1,0 +1,27 @@
+C:\Users\Kev1\Dropbox\Learning Deutsch Again\Learning Deutsch Again\Learning Deutsch Again\bin\Debug\Learning Deutsch Again.exe.config
+C:\Users\Kev1\Dropbox\Learning Deutsch Again\Learning Deutsch Again\Learning Deutsch Again\bin\Debug\Learning Deutsch Again.exe
+C:\Users\Kev1\Dropbox\Learning Deutsch Again\Learning Deutsch Again\Learning Deutsch Again\bin\Debug\Learning Deutsch Again.pdb
+C:\Users\Kev1\Dropbox\Learning Deutsch Again\Learning Deutsch Again\Learning Deutsch Again\obj\Debug\Learning_Deutsch_Again.MainForm.resources
+C:\Users\Kev1\Dropbox\Learning Deutsch Again\Learning Deutsch Again\Learning Deutsch Again\obj\Debug\Learning Deutsch Again.csproj.GenerateResource.Cache
+C:\Users\Kev1\Dropbox\Learning Deutsch Again\Learning Deutsch Again\Learning Deutsch Again\obj\Debug\Learning Deutsch Again.exe
+C:\Users\Kev1\Dropbox\Learning Deutsch Again\Learning Deutsch Again\Learning Deutsch Again\obj\Debug\Learning Deutsch Again.pdb
+C:\Users\Kev1\Dropbox\Learning Deutsch Again\Learning Deutsch Again\Learning Deutsch Again\obj\Debug\Learning Deutsch Again.csprojAssemblyReference.cache
+C:\Users\Kev1\Dropbox\Learning Deutsch Again\Learning Deutsch Again\Learning Deutsch Again\obj\Debug\Learning Deutsch Again.csproj.CoreCompileInputs.cache
+C:\Users\Kev1\Dropbox\Projets\Programmation\Projets\Learning Deutsch Again\Learning Deutsch Again\Learning Deutsch Again\bin\Debug\Learning Deutsch Again.exe.config
+C:\Users\Kev1\Dropbox\Projets\Programmation\Projets\Learning Deutsch Again\Learning Deutsch Again\Learning Deutsch Again\bin\Debug\Learning Deutsch Again.exe
+C:\Users\Kev1\Dropbox\Projets\Programmation\Projets\Learning Deutsch Again\Learning Deutsch Again\Learning Deutsch Again\bin\Debug\Learning Deutsch Again.pdb
+C:\Users\Kev1\Dropbox\Projets\Programmation\Projets\Learning Deutsch Again\Learning Deutsch Again\Learning Deutsch Again\obj\Debug\Learning_Deutsch_Again.Configuration.resources
+C:\Users\Kev1\Dropbox\Projets\Programmation\Projets\Learning Deutsch Again\Learning Deutsch Again\Learning Deutsch Again\obj\Debug\Learning Deutsch Again.csproj.GenerateResource.cache
+C:\Users\Kev1\Dropbox\Projets\Programmation\Projets\Learning Deutsch Again\Learning Deutsch Again\Learning Deutsch Again\obj\Debug\Learning Deutsch Again.exe
+C:\Users\Kev1\Dropbox\Projets\Programmation\Projets\Learning Deutsch Again\Learning Deutsch Again\Learning Deutsch Again\obj\Debug\Learning Deutsch Again.pdb
+C:\Users\Kev1\Dropbox\Projets\Programmation\Projets\Learning Deutsch Again\Learning Deutsch Again\Learning Deutsch Again\obj\Debug\Learning Deutsch Again.csprojResolveAssemblyReference.cache
+C:\Users\Kev1\Dropbox\Projets\Learning Deutsch Again\Learning Deutsch Again\Learning Deutsch Again\bin\Debug\Learning Deutsch Again.exe.config
+C:\Users\Kev1\Dropbox\Projets\Learning Deutsch Again\Learning Deutsch Again\Learning Deutsch Again\bin\Debug\Learning Deutsch Again.exe
+C:\Users\Kev1\Dropbox\Projets\Learning Deutsch Again\Learning Deutsch Again\Learning Deutsch Again\bin\Debug\Learning Deutsch Again.pdb
+C:\Users\Kev1\Dropbox\Projets\Learning Deutsch Again\Learning Deutsch Again\Learning Deutsch Again\obj\Debug\Learning Deutsch Again.csproj.AssemblyReference.cache
+C:\Users\Kev1\Dropbox\Projets\Learning Deutsch Again\Learning Deutsch Again\Learning Deutsch Again\obj\Debug\Learning Deutsch Again.csproj.GenerateResource.cache
+C:\Users\Kev1\Dropbox\Projets\Learning Deutsch Again\Learning Deutsch Again\Learning Deutsch Again\obj\Debug\Learning Deutsch Again.csproj.CoreCompileInputs.cache
+C:\Users\Kev1\Dropbox\Projets\Learning Deutsch Again\Learning Deutsch Again\Learning Deutsch Again\obj\Debug\Learning Deutsch Again.exe
+C:\Users\Kev1\Dropbox\Projets\Learning Deutsch Again\Learning Deutsch Again\Learning Deutsch Again\obj\Debug\Learning Deutsch Again.pdb
+C:\Users\Kev1\Dropbox\Projets\Learning Deutsch Again\Learning Deutsch Again\Learning Deutsch Again\obj\Debug\Learning_Deutsch_Again.MainForm.resources
+C:\Users\Kev1\Dropbox\Projets\Learning Deutsch Again\Learning Deutsch Again\Learning Deutsch Again\obj\Debug\Learning_Deutsch_Again.FormConnect.resources
